@@ -64,7 +64,15 @@ The data set contains the following diseases:
 - seaborn - 0.12.2
 - statmodels - 0.13.5
 - sklearn - 0.0.post1
-
+- tensorflow   2.12.0
+- tensorflow-datasets  4.9.2
+- tensorflow-estimator    2.12.0
+- tensorflow-gcs-config   2.12.0
+- tensorflow-hub     0.13.0
+- tensorflow-io-gcs-filesystem     0.32.0
+- tensorflow-metadata    1.13.1
+- tensorflow-probability  0.20.1
+- tensorstore   0.1.38
 
 ## Acknowledgements
 - This project perfored as part of the IIT-B /Upgrad EDG Program
